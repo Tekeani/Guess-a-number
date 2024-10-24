@@ -26,8 +26,6 @@ function didIWin(givenNumber) {
     return false
 }
 
-// lorsque l'utilisateur n'a pas trouvé le nombre il recommance, une fois trouvé le nombre, la boucle s'arrete (while)
-
 function gamePlay() {
     let found = false;
     do {
